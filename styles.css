@@ -1,7 +1,9 @@
 * {
 	box-sizing: border-box;
 }
-
+.nav{
+	color:red;
+}
 body {
 	padding: 1rem .5rem;
 	font-size: 1.3rem;
