@@ -15,6 +15,9 @@ body {
 
 img {
 	max-width: 100%;
+	background-image:url(food.jpg);
+	background-repeat:repeat;
+
 }
 
 .Header {
