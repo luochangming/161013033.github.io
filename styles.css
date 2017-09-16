@@ -16,21 +16,22 @@ body {
 img {
 	max-width: 100%;
 	background-image:url(food.jpg);
-	background-repeat:repeat;
 
 }
 
 .Header {
 	text-align: center;
-	color:red;
-	border-bottom: 8px double #f9f9f9;
+	color:rgba(237, 232, 151, 1);
+	font-weight:900;
+	border-bottom: 8px double rgba(237, 232, 151, 1)
 	margin-bottom: 2rem;
 	padding-bottom: 1rem;
-	background: black;
+	background: #fff;
 }
 
 .Strap {
 	font-size: 1rem;
+	border-top: 8px double rgba(237, 232, 151, 1);
 }
 
 
