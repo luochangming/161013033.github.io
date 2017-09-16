@@ -31,7 +31,11 @@ img {
 
 .Strap {
 	font-size: 1rem;
-	border-top: 8px double rgba(237, 232, 151, 1);
+	border-top: 6px double rgba(237, 232, 151, 1);
+	height: 0px;
+	border-top-width: 6px;
+	padding-top: 10px;
+
 }
 
 
