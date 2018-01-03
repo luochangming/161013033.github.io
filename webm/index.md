@@ -1,19 +1,18 @@
 ---
 layout: archive
-title: "学生作品集"
-date: 2017-12-30T11:40:45-04:00
+title: "网页制作与设计笔记"
+date: 2018-01-04
 modified:
-excerpt: "展示学生作品集，好的丶可改进的及有趣的"
+excerpt: "内含网页制作与设计考试回顾 实用链接 重点内容"
 tags: []
 image: 
-  feature: Portfolio.svg
+  feature: key.gif
   teaser:
 ---
 
-在此展示学生作品集，好的丶可改进的及有趣的
 
 <div class="tiles">
-{% for post in site.categories.portfolio %}
+{% for post in site.categories.webm %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 portfolio 的列出來-->
+</div><!-- /.tiles 把所有categories 有 webm 的列出來-->
