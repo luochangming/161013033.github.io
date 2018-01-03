@@ -3,25 +3,15 @@
 
 - title: 网页制作与设计笔记
   url: /webm/
-  excerpt: "网页设计绝不是简单的拼合"
+  excerpt: "内含网页制作与设计考试回顾 实用链接 重点内容"
   image: key.gif
 
-- title: 数据可视化笔记
+- title: 信息可视化笔记
   url: /datam/
-  excerpt: "了解Tableau，才能驾驭Tableau"
+  excerpt: "内含信息可视化考试回顾 实用链接 重点内容"
   image: data_vis.gif
 
-- title: 实用的链接
-  url: /linkclick/
-  excerpt: "含中外网站"
-  image: download.gif
-
-- title: 有趣的视频
-  url: /vedio/
-  excerpt: "含教程辅导"
-  image: tv.gif
-
-- title: 联络我
-  url: /contact/
-  excerpt: "含我的联系方式"
+- title: 作品集
+  url: /works/
+  excerpt: "含信息可视化和网页制作的个人作品"
   image: frog.gif
