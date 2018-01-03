@@ -2,7 +2,7 @@
 
 title: "何丽华 个人学网站"
 description: "包含了关于网页设计与制作和信息可视化的读书笔记和作品"
-logo: deng.png
+logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: zh_CH #本地化翻译
 url:
