@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "何丽华的个人学习网站"
+description: "学会成为别人的灯塔"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: zh_TW # 本地化翻译
 url:
 feed:
   path: atom.xml
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name:何丽华
+  email:1056704232@qq.com
+  twitter:/
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio:"何丽华 2016级 文学与传媒学院 网络与新媒体二班学生"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
