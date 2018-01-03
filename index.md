@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "最新文章"
 ---
 
-<div class="最新文章">
+<div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
