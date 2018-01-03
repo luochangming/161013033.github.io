@@ -2,26 +2,26 @@
 
 
 - title: 网页制作与设计笔记
-  url: /teaching/
+  url: /webM/
   excerpt: "含考试回顾"
   image: key.gif
 
 - title: 数据可视化笔记
-  url: /portfolio/
+  url: /dataM/
   excerpt: "含学生作业及考试回顾"
   image: data_vis.gif
 
 - title: 实用的链接
-  url: /i18nl10n/
+  url: /linkclick/
   excerpt: "含中外网站"
   image: download.gif
 
 - title: 有趣的视频
-  url: /SDG/
+  url: /vedio/
   excerpt: "含教程辅导"
   image: tv.gif
 
 - title: 联络我
   url: /contact/
-  excerpt: "联络我"
+  excerpt: "含我的联系方式"
   image: frog.gif
