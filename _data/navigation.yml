@@ -1,6 +1,27 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+
+  - title: 网页制作与设计笔记
+  url: /teaching/
+  excerpt: "含考试回顾"
+  image: learning_teaching.gif
+
+- title: 数据可视化笔记
+  url: /portfolio/
+  excerpt: "含学生作业及考试回顾"
+  image: Portfolio.svg
+
+- title: 实用的链接
+  url: /i18nl10n/
+  excerpt: "含中外网站"
+  image: Tower_of_Babel.jpg
+
+- title: 有趣的视频
+  url: /SDG/
+  excerpt: "含教程辅导"
+  image: 300x200.gif
+
+- title: 联络我
+  url: /contact/
+  excerpt: "联络我"
+  image: Pigeon_post.jpg
